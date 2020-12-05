@@ -272,5 +272,40 @@ height: 100%!important;
 }
 
 .component__details {
-  font-size: 20px;;
+  font-size: 18px;;
+}
+
+
+.component__details2 {
+  font-size: 18px;;
+}
+ 
+.component__factTable .generic__listNone .component__details2
+{
+  min-width: 2000px;
+  border-collapse: collapse;
+border-spacing: 0;
+list-style-type: none;
+display: inline;
+border-radius: 0!important;
+font-family: Open Sans,Arial,Helvetica,sans-serif!important;
+box-sizing: border-box;
+background: transparent;
+outline: 0;
+margin: 0;
+padding: 0;
+border: 0;
+vertical-align: baseline;
+color: #333;
+font-weight: 600;
+position: relative;
+margin-top: 2px;
+font-size: 14px;
+line-height: 20px;
+min-height: 22px;
+}
+
+.component__tableHead{
+  font-size: 20px;
+  padding-bottom: 5px;;
 }
